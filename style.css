@@ -1,0 +1,32 @@
+.main{
+    
+    height:100vh;
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    width:500px;
+    height:200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin-top: 380px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+button{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width:95%;
+    border-radius: 10px;
+    height:50px;
+}
+
+body{
+    transition: 0.2s;
+
+}
